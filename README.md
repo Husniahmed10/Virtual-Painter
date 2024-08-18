@@ -23,3 +23,9 @@ This project is a computer vision-based virtual painting tool built using OpenCV
 - **Color Selection**: Use the selection mode (two fingers up) to choose between different colors. Each color option is displayed at the top of the screen.
 - **Drawing**: In drawing mode (index finger up), move your finger to draw on the canvas.
 - **Eraser**: Select the eraser from the toolbar and use it to clear parts of the canvas.
+
+## Dependencies
+- **Python 3.x**
+- **OpenCV**
+- **Mediapipe**
+- **Numpy**
