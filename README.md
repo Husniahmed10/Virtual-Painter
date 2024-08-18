@@ -29,3 +29,6 @@ This project is a computer vision-based virtual painting tool built using OpenCV
 - **OpenCV**
 - **Mediapipe**
 - **Numpy**
+
+![Screenshot 2024-08-18 090109](https://github.com/user-attachments/assets/9cb1b21b-633e-497e-b9c4-f82adfe63be7)
+
